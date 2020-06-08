@@ -1,8 +1,11 @@
 # Dog-breed Classigication
 
+
+
 ## Project Description
 
 Given an image of a dog, this algorithm will identify an estimate of the canineâ€™s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
+
 
 
 ## Project Instructions
@@ -25,9 +28,6 @@ Given an image of a dog, this algorithm will identify an estimate of the canineâ
 		jupyter notebook dog_app.ipynb
 	```
 
-## (Optionally) Accelerating the Training Process 
-
-If your code is taking too long to run, you will need to either reduce the complexity of your chosen CNN architecture or switch to running your code on a GPU.  If you'd like to use a GPU, you can spin up an instance of your own:
 
 
 ## Credits
