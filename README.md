@@ -4,7 +4,7 @@
 
 ## Project Description
 
-Given an image of a dog, this algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
+Given an image of a dog, this algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed, and if an image of neither a human nor a dog is supplied, the code will return that the image is not a human or a dog.
 
 
 
